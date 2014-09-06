@@ -1,13 +1,13 @@
 {
-  "type": "GeometryCollection",
-  "geometries": [
-  "geometry": {
-    "type": "Point",
-    "coordinates": [176.85342212,-39.53944781]
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [166.85342212,-29.53944781]
-  }
-  ]
+	"type": "GeometryCollection",
+	"geometries": [
+		{
+			"type": "Point",
+			"coordinates": [176.85342212,-39.53944781]
+		},
+		{
+			"type": "Point",
+			"coordinates": [166.85342212,-29.53944781]
+		}
+	]
 }
