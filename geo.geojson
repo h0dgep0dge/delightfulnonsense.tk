@@ -1,5 +1,5 @@
 {
-  "type": "Feature",
+  "type": "GeometryCollection",
   "geometry": {
     "type": "Point",
     "coordinates": [176.85342212,-39.53944781]
