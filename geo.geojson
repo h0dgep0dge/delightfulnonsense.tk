@@ -7,12 +7,18 @@
 				"type": "point",
 				"coordinates": [176.85342212,-39.53944781]
 			}
+			"properties": {
+				"name": "Dinagat Islands"
+			}
 		},
 		{
 			"type": "feature",
 			"geometry": {
 				"type": "point",
 				"coordinates": [166.85342212,-29.53944781]
+			}
+			"properties": {
+				"name": "Dinagat Islands"
 			}
 		}
 	]
